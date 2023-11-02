@@ -1,0 +1,21 @@
+{
+  "name": "sdf",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/preact": "^3.0.1",
+    "@astrojs/rss": "^3.0.0",
+    "astro": "^3.4.0",
+    "preact": "^10.18.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
